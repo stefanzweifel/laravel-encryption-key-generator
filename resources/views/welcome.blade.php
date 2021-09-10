@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel App Key Generator</title>
+    <title>Laravel Encryption Key Generator</title>
 
     <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
 </head>
