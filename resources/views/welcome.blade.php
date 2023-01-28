@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                A project by <a href="https://stefanzweifel.io" class="ml-1 underline">Stefan Zweifel</a>
+                A project by <a href="https://stefanzweifel.dev" class="ml-1 underline">Stefan Zweifel</a>
             </div>
         </div>
     </div>
